@@ -1,4 +1,4 @@
-# THE ASYNCHRONOUS MONAD: NGUYEN DINH NGUYEN
+# THE ASYNCHRONOUS MONAD: DANG DINH NGUYEN
 > *`while (alive) { code(); philosophical_inquiry(); optimize(); }`*
 
 ---
@@ -14,8 +14,6 @@ To code is to impose deterministic order upon stochastic chaos. I view software 
 ## II. THE HEATMAP: PROOF OF CONTINUOUS BECOMING
 
 > "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
-
-The visualization below represents continuous engagement with the digital universe—totaling **over 1,000 contributions** within the current annual cycle. It serves as empirical evidence of discipline, execution, and iterative growth.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDinhDang&theme=tokyonight&hide_border=true" alt="Nguyen's Streak Stats" width="49%" />
