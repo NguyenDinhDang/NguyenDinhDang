@@ -5,16 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=NguyenDinhDang&label=Profile%20views&color=0e75b6&style=flat" alt="NguyenDinhDang" />
 </p>
 
-> *"Living on hope, building through logic, driving towards autonomy."* 🧠 📈
+> *"Living on hope, building through logic, driving towards autonomy."* 
 
 ---
 
 ### 💫 About Me
 
-- 🎓 **Education:** 1st-year Information Technology student, deeply passionate about **Mathematics**, **Philosophy**, and **Clean Code**.
-- 🛠️ **Current Focus:** Building production-ready, scalable asynchronous APIs and mastering system architectures.
-- 🏠 **Side Quest:** Managing a DIY Home Server powered by a repurposed *Dell Latitude 3340 (2014) | 4GB RAM | 128GB SSD* for local deployments and self-hosting.
-- 🎯 **Long-term Goal:** Financial Freedom & Saving 150M VND by graduation while creating impactful tech.
+- **Education:** 1st-year Information Technology student, deeply passionate about **Mathematics**, **Philosophy**, and **Clean Code**.
+- **Current Focus:** Building production-ready, scalable asynchronous APIs and mastering system architectures.
+
 
 ---
 
