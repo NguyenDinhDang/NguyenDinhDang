@@ -1,86 +1,46 @@
-# Hi there, I'm Dang Dinh Nguyen 👋 
-### 🚀 Computer Science Student | Backend-Heavy Fullstack Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NguyenDinhDang&label=Profile%20views&color=0e75b6&style=flat" alt="NguyenDinhDang" />
-</p>
-
-> *"Living on hope, building through logic, driving towards autonomy."* 
+# THE ASYNCHRONOUS MONAD: NGUYEN DINH NGUYEN
+> *`while (alive) { code(); philosophical_inquiry(); optimize(); }`*
 
 ---
 
-### 💫 About Me
+## I. SYSTEM PHILOSOPHY & MANIFESTO
 
-- **Education:** 1st-year Information Technology student, deeply passionate about **Mathematics**, **Philosophy**, and **Clean Code**.
-- **Current Focus:** Building production-ready, scalable asynchronous APIs and mastering system architectures.
+> "The root of freedom is logic, the fruit of freedom is autonomy."
 
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+To code is to impose deterministic order upon stochastic chaos. I view software engineering not merely as the construction of tools, but as an applied philosophy—where algorithms function as pure thought-forms and clean architecture serves as the highest expression of rigorous logic.
 
 ---
 
-### 🚀 Featured Projects
+## II. THE HEATMAP: PROOF OF CONTINUOUS BECOMING
 
-#### 🎓 **TVU Learning – Intelligent AI-Powered Learning Platform**
-An advanced ecosystem that transforms raw documents into interactive, personalized learning experiences.
-* **Backend:** FastAPI (Python), Async Architecture, PostgreSQL, JWT Authentication.
-* **Frontend:** React, TypeScript, Vite, TailwindCSS, React Flow (for mindmaps & roadmaps).
-* **AI Core:** Integrated Gemini & DeepSeek with a strict JSON validation pipeline to filter and control output.
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
 
-#### 📦 **Other Ecosystems & Practices**
-* **Docs-e-commerce:** Microservice/Document-driven e-commerce logic.
-* **Book-Management & UI:** Fullstack application utilizing FastAPI for robust data handling paired with a modern TypeScript frontend.
-
----
-
-### 📊 GitHub Stats & Consistency
+The visualization below represents continuous engagement with the digital universe—totaling **over 1,000 contributions** within the current annual cycle. It serves as empirical evidence of discipline, execution, and iterative growth.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDinhDang&show_icons=true&theme=tokyonight&count_private=true" alt="Nguyen's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDinhDang&theme=tokyonight" alt="Nguyen's Streak Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDinhDang&theme=tokyonight&hide_border=true" alt="Nguyen's Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDinhDang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nguyen's GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDinhDang&layout=compact&theme=tokyonight" alt="Top Langs" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDinhDang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%"/>
 </p>
 
 ---
 
-### 🌌 Philosophy & Finance Log
-```math
-\text{Growth} = \int (\text{Logic} + \text{Code}) \, dt \quad \land \quad \text{Wealth} = \sum (\text{Compound Interest})
+## III. THE TECH STACK (ARCHITECTURAL TOOLKIT)
+
+Systems are orchestrated utilizing high-performance, asynchronous environments to maximize structural efficiency and eliminate algorithmic bloat.
+
+```yaml
+backend_ecosystem:
+  languages:  [Python, TypeScript]
+  frameworks: [FastAPI, Asyncio, Node.js]
+  storage:    [PostgreSQL, Document-Driven Databases]
+  security:   [JWT Authentication, State Validation]
+
+infrastructure_operations:
+  environment: [Linux Kernel, Bash Scripting]
+  versioning:  [Git, Automated Workflows]
+  hardware:    [DIY Home Server | Dell Latitude 3340 | 4GB RAM | 128GB SSD]
+               # Optimizing legacy hardware line-by-line; rejecting modern bloat.
