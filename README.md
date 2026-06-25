@@ -32,13 +32,12 @@ Systems are orchestrated utilizing high-performance, asynchronous environments t
 
 ```yaml
 backend_ecosystem:
-  languages:  [Python, TypeScript]
-  frameworks: [FastAPI, Asyncio, Node.js]
+  languages:  [Python, TypeScript, C, C++]
+  frameworks: [FastAPI, Node.js]
   storage:    [PostgreSQL, Document-Driven Databases]
   security:   [JWT Authentication, State Validation]
 
 infrastructure_operations:
   environment: [Linux Kernel, Bash Scripting]
   versioning:  [Git, Automated Workflows]
-  hardware:    [DIY Home Server | Dell Latitude 3340 | 4GB RAM | 128GB SSD]
                # Optimizing legacy hardware line-by-line; rejecting modern bloat.
